@@ -21,7 +21,6 @@
 		CF407CCA26D5C5B3002DEE06 /* AppShared.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF407CB926D5C5B3002DEE06 /* AppShared.swift */; };
 		CF407CCB26D5C5B3002DEE06 /* ServiceError.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF407CBB26D5C5B3002DEE06 /* ServiceError.swift */; };
 		CF407CCC26D5C5B3002DEE06 /* Enviroment.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF407CBD26D5C5B3002DEE06 /* Enviroment.swift */; };
-		CF407CCD26D5C5B3002DEE06 /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF407CBF26D5C5B3002DEE06 /* Reachability.swift */; };
 		CF407CCF26D5C5F3002DEE06 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF407CCE26D5C5F3002DEE06 /* ReplaceMe.swift */; };
 		CF407CF126D5C9EC002DEE06 /* KQNetwork.podspec in Resources */ = {isa = PBXBuildFile; fileRef = CF407CF026D5C9EC002DEE06 /* KQNetwork.podspec */; };
 		CF407CF926D5CF46002DEE06 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = CF407CF626D5CF46002DEE06 /* README.md */; };
@@ -283,7 +282,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CF407CCD26D5C5B3002DEE06 /* Reachability.swift in Sources */,
 				CF407CCB26D5C5B3002DEE06 /* ServiceError.swift in Sources */,
 				CF407CC426D5C5B3002DEE06 /* DefaultRequest.swift in Sources */,
 				CF407CC026D5C5B3002DEE06 /* LoginUserModel.swift in Sources */,
